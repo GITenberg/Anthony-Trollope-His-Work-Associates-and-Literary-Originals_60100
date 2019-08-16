@@ -1,0 +1,23 @@
+_repo: Anthony-Trollope-His-Work-Associates-and-Literary-Originals_60100
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Escott, T. H. S. (Thomas Hay Sweet)
+    alias: Escott, Thomas Hay Sweet
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '39771'
+    url: http://www.gutenberg.org/2009/agents/39771
+description: ''
+gutenberg_issued: '2019-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Anthony Trollope; His Work, Associates and Literary Originals
+url: http://www.gutenberg.org/ebooks/60100
